@@ -1,4 +1,4 @@
-# Attandance-Using-OMR-sheet
+# Attendance-Using-OMR-sheet
 
 Make sure the image format is jpg/png and background is clear and has no multiple colours.
 
